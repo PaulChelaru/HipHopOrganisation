@@ -1,0 +1,5 @@
+USERNAME, PASSWORD, FIRST NAME, LAST NAME, CPR, ADDRESS, PHONE NUMBER, EMAIL, MASTER
+radu,rad1,Radu,Onescu,121199-2345,Lyngbyvej 125,71518963,radu@hiphap.com,true
+paul,paul1,Paul,Chelaru,150390-1234,Norre Alle 20,81967245,paul@hiphag.com,true
+solo,solo1,Solomon,Imhomoh,141100-1367,Norre Tofte 178,71518633,solo@hiphag.com,true
+ruhul,ruhul1,Ruhul,Amin,190189-9012,Farum 122,78125630,ruhul@hiphag.con,false

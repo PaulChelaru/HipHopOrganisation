@@ -1,0 +1,4 @@
+FIRST NAME, LAST NAME, CPR, PHONE NUMBER, EMAIL, TYPE, START DATE, START TIME, DURATION, ENDING DATE, ENDING TIME, NUMBER OF PARTICIPANTS, DJ, TRANSPORTATION, FLORIST, CATERING, DRINKS, COCKTAIL, AUDIO VISUAL, MARKETING, EMERGENCY, PHOTOGRAPHY, DECORATOR, LOCATION, TOTAL PRICE, RESPONSIBLE EMPLOYEE
+Radu,Onescu,1234567890,12345678,rad@gmail.com,Wedding,2018-12-06,20:00,48,15,true,true,true,true,true,false,false,false,false,false,false,Gateway Classic Centre,13320.0,Cristiano Ronaldo
+Joe,Doe,1234567890,12345678,joe@doe.com,Exhibitions,2019-03-10,20:00,24,200,true,true,true,true,true,false,false,false,false,false,false,Norre Hallen,82898.0,Gerud Pique
+Radu,Doe,1234567890,09876543,doe@dell.com,Product Launch,2019-12-12,20:30,13,2,true,true,true,true,true,false,false,false,false,false,false,Fig and Olive,15411.0,Cristiano Ronaldo
